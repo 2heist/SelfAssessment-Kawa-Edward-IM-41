@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Strong and weak sides of node.js k
+  - Stateful and stateless servers h
+  - Nonblocking I/O and blocking code h
+  - Event loop phases h
+  - Event loop microtasks and macrotasks h
+  - Garbage collection h
+  - Node.js LTS schedule h
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - CommonJS modules h
+  - ECMAScript modules h
+  - Module `node:module` h
+  - Caching in CJS and ESM h
+  - Modules as singletons 
+  - Contexts and scripts module `node:vm` h
+  - Dependencies: `npm`, `node_modules` h
+  - Files `package.json`, `package-lock.json` k
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments h
+  - Node.js CLI h
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) h
   - TCP/SSL
   - UDP
   - TLS
@@ -78,8 +78,8 @@
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS h
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
@@ -138,6 +138,6 @@
   - Webassembly `C` and `C++`
   - Webassembly `Rust`
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - Webassembly `AssemblyScript` 
+  - Shared memory h
+  - V8 binary serialization h
