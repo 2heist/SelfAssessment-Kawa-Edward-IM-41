@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 👂 heard
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 👂 heard
+  - Caching in CJS and ESM: 👂 heard
   - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Contexts and scripts module `node:vm`: 👂 heard
+  - Dependencies: `npm`, `node_modules`: 👂 heard
+  - Files `package.json`, `package-lock.json`: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -78,8 +78,8 @@
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - Shared memory: 👂 heard
+  - V8 binary serialization: 👂 heard
