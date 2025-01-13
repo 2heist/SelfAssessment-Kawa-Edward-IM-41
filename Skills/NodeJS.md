@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js k
-  - Stateful and stateless servers h
-  - Nonblocking I/O and blocking code h
-  - Event loop phases h
-  - Event loop microtasks and macrotasks h
-  - Garbage collection h
-  - Node.js LTS schedule h
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 👂 heard
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time) h
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules h
-  - ECMAScript modules h
-  - Module `node:module` h
-  - Caching in CJS and ESM h
-  - Modules as singletons 
-  - Contexts and scripts module `node:vm` h
-  - Dependencies: `npm`, `node_modules` h
-  - Files `package.json`, `package-lock.json` k
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 👂 heard
+  - Caching in CJS and ESM: 👂 heard
+  - Modules as singletons
+  - Contexts and scripts module `node:vm`: 👂 heard
+  - Dependencies: `npm`, `node_modules`: 👂 heard
+  - Files `package.json`, `package-lock.json`: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments h
-  - Node.js CLI h
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) h
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -78,8 +78,8 @@
   - REST
   - RPC
   - Routing
-  - DoS h
-  - DDoS h
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -138,6 +138,6 @@
   - Webassembly `C` and `C++`
   - Webassembly `Rust`
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript` 
-  - Shared memory h
-  - V8 binary serialization h
+  - Webassembly `AssemblyScript`
+  - Shared memory: 👂 heard
+  - V8 binary serialization: 👂 heard
